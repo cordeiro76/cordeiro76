@@ -1,6 +1,6 @@
 
 <p align="center">
-  <em>QA Júnior in <strong>PureSpectrum</strong> | Student of Post-graduation in Test Automation 💻🔍</em>
+  <em>QA Júnior at <strong>PureSpectrum</strong> | Student of Post-graduation in Test Automation 💻🔍</em>
 </p>
 
 ---
