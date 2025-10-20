@@ -10,7 +10,7 @@
 
 💼 I work as a ** QA at PureSpectrum**, where I handle functional testing, collaborate closely with the development team, and face daily challenges that help me grow professionally.
 
-🛠️ Tech Stack: **JavaScript | Cypress | Mocha | Chai | Postman | Git | GitHub | Jira **.
+🛠️ Tech Stack: JavaScript | Cypress | Mocha | Chai | Postman | Git | GitHub | Jira.
 
 ✨ I'm interested in continuous quality, automated testing, CI/CD pipelines, and DevOps culture.
 
