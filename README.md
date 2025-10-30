@@ -1,6 +1,6 @@
 
 <p align="center">
-  <em>QA Engineer | Student of Post-graduation in Test Automation 💻🔍</em>
+  <em>QA Engineer - Automation| Student of Post-graduation in Test Automation 💻🔍</em>
 </p>
 
 ---
